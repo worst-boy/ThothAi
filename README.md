@@ -1,6 +1,6 @@
 # Thoth AI - A Telegram AI Bot for Multiple Personas
 
-#### Video Demo: <URL HERE>
+#### Video Demo: https://youtu.be/BP9WBUYo_sg
 
 ## Introduction
 
