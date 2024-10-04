@@ -1,8 +1,8 @@
-# Thoth AI - A Telegram AI Bot for Multiple Personas
+Thoth AI - A Telegram AI Bot for Multiple Personas
 
-#### Video Demo: <URL HERE>
+Video Demo: <URL HERE>
 
-*** Introduction ***
+***Introduction***
 
 Thoth AI is a versatile and intelligent Telegram bot designed to assist users with a range of needs. Whether you're looking for mental health guidance from a therapist, financial advice, career coaching, or learning mentorship, Thoth AI provides expert-level conversations across multiple personas. The bot leverages the **Gemini-1.0-Pro** API from Google’s generative AI services to deliver high-quality, human-like responses.
 
