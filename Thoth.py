@@ -5,7 +5,7 @@ from collections import defaultdict
 from datetime import datetime, timedelta
 import time
 
-genai.configure(api_key="AIzaSyCX6YSKdjLm585O0yd8hsOO07JIkA4ZaXs")
+genai.configure(api_key="YOUR_GEMINI_API_HERE")
 
 generation_config = {
     "temperature": 0.8,
@@ -39,7 +39,7 @@ model = genai.GenerativeModel(
     safety_settings=safety_settings,
 )
 
-bot = telebot.TeleBot("7651879795:AAF0fEUlJy1kVhCU-bg6R4e6ZrdxhRdebF4")
+bot = telebot.TeleBot("YOUR_TELEGRAM_BOT_TOKEN_HERE")
 
 LOGS_DIR = "./conversation_logs/"
 
